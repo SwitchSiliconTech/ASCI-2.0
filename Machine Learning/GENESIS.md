@@ -27,7 +27,8 @@ hierarchical features and accurately classify food items.
 • React and Material-UI (MUI): Creating a visually appealing and user-friendly frontend for capturing
 images and viewing nutritional insights.
 • Mongo dB and Firebase(optional):Creating secure authentication, storing calories and dietary
-preferences.
+preferences.  
+
 
 
 ## Weekly Report-
