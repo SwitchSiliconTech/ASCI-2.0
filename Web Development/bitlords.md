@@ -1,9 +1,31 @@
-<h2>PROJECT NAME-</h2> Pravti<br>
-<h2>DOMAIN</h2> -Web Development<br>
-<h2>LINK</h2>-"https://github.com/Arpita389/Retail"<br>
-<h2>ABOUT PROJECT</h2> -here we have made a website where people can buy dress,jwellery,cosmetics,watch and electronics part.We are also added Home page,Abou page,Contact Page, Login page ,Menu page and Payment page, Submit page.<br>
-<h2>Tech Stack used</h2>-here we have used React Js,Express js.<br>
-<h2>Weekly Report</h2>-
-<h4>Week-1:-</h4> here after login a person can able to see list category placed in our website and they can buy it by clicking on buy noe button or can add it cart by clicking on add buuton and they can able to see added item and can delete them.<br>
-<h4>Week-2:-</h4> in this week we have done sign up, sign in ,admin page,sorting of item,intallment payment part and join with us part here people can sell theit product to us .<br>
-<h2>TEAM MEMBERS</h2> -Dhanada Panda and Arpita Mohapatra
+## PROJECT NAME -
+
+       Pravartti
+
+## DOMAIN -
+
+      Web Development
+
+## LINK -
+
+        https://github.com/Arpita389/Retail
+
+## ABOUT PROJECT -
+
+    we are basically made a retail website where people can see category of product and click on any category and see different types of product can add it in cart and buy it.
+    here the uniqueness of our website is installment payment part which is not available in any of the website, this means people can pay part of price in online and rest by cash on delivery process.
+    we have proided join with us part which is the special feature of our webiste here people can sell their product through our website.
+
+## Tech Stack used-
+
+        React js, Express js.
+
+## Weekly Report-
+
+    week-1:- we have made home page,about us page,contact page and product page where people can see category of product and click on any category and see different types of product can add it in cart and buy it.
+    week-2:- in the second week we have made sign up, sign in page, sorting of product,add how many product you want,installment payment part,admin page, join with us page .
+
+## TEAM MEMBERS -
+
+    1. Dhanada Panda(Team Leader)
+    2.Arpita Mohapatra.
