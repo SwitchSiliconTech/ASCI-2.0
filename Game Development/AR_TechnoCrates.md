@@ -17,6 +17,7 @@ Blender(optional)
 
 ## Weekly Report-
 Week 1 - Building platform / UI / Test Case
+Week 2 - UI Design in Flutter with Google Authentication/AR Project Build
 
 ## TEAM MEMBERS -
 Swastik Nayak
