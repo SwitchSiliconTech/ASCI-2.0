@@ -24,6 +24,8 @@ Carpool Services at your time at your price and hence termed as _"Your One Stop 
 
 ## Weekly Report-
 - Week 1 :- Devoloping the initial folder structure and basic skeletons of the UI
+- Week 2 :- Integrated Authentication and Backend on express js server along with Google Map APIs
+- Week 3 :- Finalized the main userflow and all functionalities in Mobile View as well.
 
 ## TEAM MEMBERS -
 - [Aditya Kumar Dutta](https://github.com/addymistrel)
